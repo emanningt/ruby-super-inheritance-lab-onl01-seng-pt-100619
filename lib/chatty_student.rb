@@ -8,6 +8,6 @@ class ChattyStudent < Student
   end
   
   def ChattyStudent 
-  puts 10.times{puts "Pick me!"}
+   10.times{puts "Pick me!"}
   end
 end
