@@ -10,6 +10,6 @@ class ChattyStudent < Student
   def ChattyStudent 
   loop do 
     puts "Pick me!" *10 
-    brake
+    
   end
 end
