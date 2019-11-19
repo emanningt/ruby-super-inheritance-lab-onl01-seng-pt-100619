@@ -8,7 +8,7 @@ class ChattyStudent < Student
   end
   
   def ChattyStudent 
-    loop do 
+    
   
   end
 end
