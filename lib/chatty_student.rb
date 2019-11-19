@@ -8,6 +8,6 @@ class ChattyStudent < Student
   end
   
   def ChattyStudent 
-  
+  10.times
   end
 end
