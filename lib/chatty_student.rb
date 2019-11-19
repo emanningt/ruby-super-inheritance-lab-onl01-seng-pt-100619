@@ -8,7 +8,6 @@ class ChattyStudent < Student
   end
   
   def ChattyStudent 
-    
   
   end
 end
